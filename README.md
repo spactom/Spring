@@ -22,7 +22,7 @@ This project demonstrates CRUD operations, Hibernate mappings, and database inte
 - IDE: Eclipse / IntelliJ IDEA
 
 ## 📂 Project Structure
-
+```
 LibraryManagementSystem/
 │── src/main/java/
 │   ├── entity/          # Hibernate entity classes
@@ -36,6 +36,7 @@ LibraryManagementSystem/
 │
 │── pom.xml (if Maven used)
 │── README.md
+```
 
 ## ⚙️ Installation & Setup
 
