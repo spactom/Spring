@@ -3,7 +3,7 @@
 A Library Management System built using **Java**, **Hibernate**, and **MySQL** to manage books, users, and administrative operations.  
 This project demonstrates CRUD operations, Hibernate mappings, and database interaction in a real-world scenario.
 
-## 🚀 Features
+## 🚀 Features 
 
 - Add, update, delete, and view books.
 - Manage users (students/admin).
